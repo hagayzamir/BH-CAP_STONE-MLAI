@@ -1,0 +1,91 @@
+
+Column: Unnamed: 0
+Unique values count: 24783
+Value counts: 
+0        1
+16934    1
+16907    1
+16906    1
+16905    1
+16904    1
+16903    1
+16902    1
+16901    1
+16900    1
+Name: Unnamed: 0, dtype: int64
+
+Column: count
+Unique values count: 5
+Value counts: 
+3    22807
+6     1571
+4      211
+9      167
+7       27
+Name: count, dtype: int64
+
+Column: hate_speech
+Unique values count: 8
+Value counts: 
+0    19790
+1     3419
+2     1251
+3      287
+4       21
+5        7
+6        5
+7        3
+Name: hate_speech, dtype: int64
+
+Column: offensive_language
+Unique values count: 10
+Value counts: 
+3    13383
+2     4246
+0     3475
+1     2066
+6      857
+5      369
+4      251
+9       66
+8       37
+7       33
+Name: offensive_language, dtype: int64
+
+Column: neither
+Unique values count: 10
+Value counts: 
+0    18892
+3     2790
+1     1694
+2     1200
+6      103
+5       54
+4       35
+9        5
+8        5
+7        5
+Name: neither, dtype: int64
+
+Column: class
+Unique values count: 3
+Value counts: 
+1    19190
+2     4163
+0     1430
+Name: class, dtype: int64
+
+Column: tweet
+Unique values count: 24783
+Value counts: 
+!!! RT @mayasolovely: As a woman you shouldn't complain about cleaning up your house. &amp; as a man you should always take the trash out...          1
+RT @MurderHigashi: I cannot be worried 'bout no bitch.                                                                                                1
+RT @MrPerfect_22: Most of these niggas go broke for these hoes !!                                                                                     1
+RT @MrPOONsoaker: Foh RT @Thotcho: @MrPOONsoaker lmao 6&#8242;0 but I&#8217;m hella skinny so bitches don&#8217;t like me                             1
+RT @MrNationWide: fake eyelashes are okay if they look natural, but some of you bitches look like you gonna take flight if you blink too fa&#8230;    1
+RT @MrNBAallday: Kobe calls Dwight Howard a "bitch ass nigga" &#128514;&#128514;\n\nhttps://t.co/9l5E8kKW7D                                           1
+RT @MrLuckyToYou: If that pussy good, umma moan when um eating it.                                                                                    1
+RT @MrLuckyToYou: Eat that pussy from the back and slide two fingers in...                                                                            1
+RT @MrHoratioSanz: Vin Scully once called me a camel jockey. #liesaboutvinscully                                                                      1
+RT @MrHeadLock101 Either bitches fake gay or fake happy                                                                                               1
+Name: tweet, dtype: int64
