@@ -1,6 +1,4 @@
-<div style="color:red">
-    
-# Disclaimer: Content Warning
+- Disclaimer: Content Warning
 
 ### This capstone project involves the analysis of social media content, including tweets that may contain hate speech and offensive language. The objective of this project is to explore methods for identifying and understanding such harmful content, and not to promote or endorse it in any way.
 
@@ -9,8 +7,7 @@
 ### Please be advised that this project may not be suitable for all audiences due to the sensitive nature of the content. Viewer discretion is strongly advised.
 
 ### The goal of my work is to combat hate speech and offensive language, and to contribute to making online spaces more respectful and inclusive. I appreciate your understanding and support in this endeavor.
-    
-</div>
+
 
 # BH-CAP_STONE-MLAI
 This project contains the Capstone project files.
