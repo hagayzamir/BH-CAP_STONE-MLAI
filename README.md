@@ -4,7 +4,7 @@ This project contains the Capstone project files.
 
 # Disclaimer: Content Warning
 
-#### This capstone project involves the analysis of social media content, including tweets that may contain hate speech and offensive language. The objective of this project is to explore methods for identifying and understanding such harmful content, and not to promote or endorse it in any way.
+#### This project involves the analysis of social media content, including tweets that may contain hate speech and offensive language. The objective of this project is to explore methods for identifying and understanding such harmful content, and not to promote or endorse it in any way.
 
 #### The content you will encounter in this project may contain explicit language, discriminatory remarks, or offensive terminologies. This includes but is not limited to slurs related to race, ethnicity, religion, gender, sexuality, or other protected characteristics. I strongly condemn such behavior, but include these data in my project for the purpose of creating models that can help detect and mitigate the spread of hate speech and offensive language online.
 
