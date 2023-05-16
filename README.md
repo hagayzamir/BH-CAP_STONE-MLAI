@@ -11,22 +11,20 @@ tbd
 tbd
 
 ## Directory Structure
-.
-├── code
-│   ├── Exploratory_Data_Analysis.ipynb
-│   ├── Basic_Model_Exploration.ipynb
-│   └── Advance_Model_Exploration.ipynb
-├── data
-│   ├── original_raw_data.csv
-│   └── processed_tweet.csv
-├── docs
-│   ├── CRISP-DM.txt
-│   └── OriginalPaper.pdf
-├── images
-│   └── ...
-├── plots
-└── README.md
 
+- code
+    - Exploratory_Data_Analysis.ipynb
+    - Basic_Model_Exploration.ipynb
+    - Advance_Model_Exploration.ipynb
+- data
+    - original_raw_data.csv
+    - processed_tweet.csv
+- docs
+    - CRISP-DM.txt
+    - OriginalPaper.pdf
+- images
+- plots
+- README.md
 
 ## Links
 There are few files in this project. Each file has a seperate purpose. 
