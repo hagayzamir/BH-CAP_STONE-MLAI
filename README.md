@@ -2,7 +2,7 @@
 This project contains the Capstone project files.
 
 # Overview
-tbd
+Automatic detection of hate speech on social media platforms presents a significant challenge, particularly when it comes to distinguishing hate speech from other instances of offensive language. Traditional lexical detection methods often struggle to make this distinction, labeling any messages containing specific terms as hate speech. This lack of precision has been a limiting factor in previous studies using supervised learning models.
 
 # summary of findings
 tbd
