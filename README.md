@@ -30,6 +30,9 @@ tbd
 
 ## Links
 There are few files in this project. Each file has a seperate purpose. 
+
 Exploratory Data Analysis [here](https://github.com/hagayzamir/BH-CAP_STONE-MLAI/blob/main/code/Exploratory%20Data%20Analysis.ipynb)
+
 Basic Model Exploration [here](https://github.com/hagayzamir/BH-CAP_STONE-MLAI/blob/main/code/Basic%20Model%20Exploration.ipynb)
+
 Advance_Model_Exploration [here](https://github.com/hagayzamir/BH-CAP_STONE-MLAI/blob/main/code/Advance%20Model%20Exploration.ipynb)
