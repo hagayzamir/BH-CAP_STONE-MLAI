@@ -68,7 +68,7 @@ By exploring these recommendations, researchers and practitioners can advance th
     - original_raw_data.csv
     - processed_tweet.csv
 - docs
-    - Finsl Report.pdf - Final project report.
+    - Final Report.pdf - Final project report.
     - CRISP-DM.txt
     - OriginalPaper.pdf - Originala paper.
 - plots - This direc tory contain all the plots from the project.
@@ -77,6 +77,8 @@ By exploring these recommendations, researchers and practitioners can advance th
 
 ### Links
 There are few files in this project. Each file has a seperate purpose. 
+
+Final Report [here](https://github.com/hagayzamir/BH-CAP_STONE-MLAI/blob/main/docs/Final%20Report.pdf)
 
 Exploratory Data Analysis [here](https://github.com/hagayzamir/BH-CAP_STONE-MLAI/blob/main/code/Exploratory%20Data%20Analysis.ipynb)
 
